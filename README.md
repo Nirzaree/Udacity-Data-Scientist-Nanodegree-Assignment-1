@@ -14,3 +14,5 @@ The goal of this repository is to analyse a dataset using CRISP-DM methodology. 
     
     Random Forest model did a good job of predicting the prices for the listings in the dataset. 
     
+    A blog post describing the process and high level analysis is at: https://nirzaree.wordpress.com/2022/01/28/analysing-seattle-airbnb-data/
+    
