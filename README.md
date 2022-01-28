@@ -2,7 +2,7 @@
 
 The goal of this repository is to analyse a dataset using CRISP-DM methodology. The dataset used here is Seattle AirBnB data taken from kaggle. 
 
-    ├── Seattle AirBnB Data Analysis.ipynb                   # Main Analysis File
+    ├── Seattle AirBnB Data Analysis.ipynb  # Main Analysis File
     ├── calender.csv                    # Data
     ├── listings.csv                    # Data
     ├── reviews.csv                     # Data
